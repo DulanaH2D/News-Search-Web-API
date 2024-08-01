@@ -1,4 +1,5 @@
-const apiKey = 'a5f5d52856324389810337bcaacc8751';
+// APIKey add from NEWS API web
+const apiKey = 'APIKEY';
 
 const blogContainer = document.getElementById('blog-container');
 
