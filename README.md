@@ -55,5 +55,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - [W3Schools](https://www.w3schools.com/) for tutorials and documentation.
 
 </br>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="Screenshot 1.png" alt="Screenshot 1" width="900" height="600">
+<img src="Screenshot 2.png" alt="Screenshot 2" width="900" height="600">
+<img src="Screenshot 3.png" alt="Screenshot 3" width="900" height="600">
